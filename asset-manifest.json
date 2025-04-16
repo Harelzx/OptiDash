@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OptiDash/static/css/main.a47b71ab.css",
+    "main.js": "/OptiDash/static/js/main.9c4703a6.js",
+    "index.html": "/OptiDash/index.html",
+    "main.a47b71ab.css.map": "/OptiDash/static/css/main.a47b71ab.css.map",
+    "main.9c4703a6.js.map": "/OptiDash/static/js/main.9c4703a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a47b71ab.css",
+    "static/js/main.9c4703a6.js"
+  ]
+}
