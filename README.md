@@ -2,7 +2,7 @@
 
 OptiDash is a modern, responsive React-based dashboard designed for visualizing simulated industrial sensor data. It provides real-time monitoring insights, incorporates gamification elements to encourage optimization, and features a clean, user-friendly interface with dark mode support.
 
-![Screenshot of OptiDash Dashboard](placeholder_link_to_your_screenshot.jpg)
+![Screenshot of OptiDash Dashboard](placeholder_link_to_your_screenshot.jpg) 
 *(Replace placeholder_link_to_your_screenshot.jpg with a link to an actual screenshot of your dashboard, like one you uploaded, once you host the image)*
 
 ## ✨ Features
@@ -73,7 +73,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/opti-dash.git](https://github.com/YOUR_USERNAME/opti-dash.git)
+    git clone [https://github.com/YOUR_USERNAME/opti-dash.git](https://github.com/YOUR_USERNAME/opti-dash.git) 
     # Replace YOUR_USERNAME/opti-dash with your actual repo URL
     cd opti-dash
     ```
@@ -85,7 +85,7 @@ Follow these instructions to get a copy of the project up and running on your lo
     ```
     *Ensure `@headlessui/react` and `react-swipeable` (if using) are installed:*
     ```bash
-    # npm install @headlessui/react react-swipeable
+    # npm install @headlessui/react react-swipeable 
     # or
     # yarn add @headlessui/react react-swipeable
     ```
@@ -140,13 +140,14 @@ opti-dash/
 ├── package.json
 └── README.md
 
-🔮 Future Improvements
-Replace simulated data with real backend API integration.
-Database integration (e.g., PostgreSQL, MongoDB) for persistent storage of user data, gamification progress, alerts, settings, and historical sensor readings.
-Cloud deployment (e.g., AWS, Azure, Google Cloud, Vercel) for accessibility and scalability.
-More sophisticated analytics, customizable charts, and reporting features.
-User roles and permissions (e.g., admin vs. operator).
-Full implementation of settings/profile editing and customization.
-Implementation of actual OEE calculation based on required backend data inputs (planned time, stop logs, good/bad counts, ideal cycle time).
-Notifications system (in-app or email/SMS).
-Unit and integration tests.
+## 🔮 Future Improvements
+
+* Replace simulated data with real backend API integration.
+* **Database integration (e.g., PostgreSQL, MongoDB) for persistent storage** of user data, gamification progress, alerts, settings, and historical sensor readings.
+* **Cloud deployment (e.g., AWS, Azure, Google Cloud, Vercel)** for accessibility and scalability.
+* More sophisticated analytics, customizable charts, and reporting features.
+* User roles and permissions (e.g., admin vs. operator).
+* Full implementation of settings/profile editing and customization.
+* Implementation of actual OEE calculation based on required backend data inputs (planned time, stop logs, good/bad counts, ideal cycle time).
+* Notifications system (in-app or email/SMS).
+* Unit and integration tests.
